@@ -1,55 +1,95 @@
-# Data Scientist
+# 🚀 Charitha Sri Iddum | Data Scientist | AI & NLP Engineer | ML Consultant  
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+📍 **Machine Learning | Deep Learning | NLP | MLOps | AI Automation**  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 🔹 About Me  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+I am a **Data Scientist with 4+ years of experience** specializing in **Machine Learning, NLP, and Computer Vision**. I develop **scalable AI solutions**, optimize **deep learning models**, and deploy AI applications using **MLOps practices**. My expertise spans **BERT-based classifiers, Vision Transformers (ViT), predictive modeling, and automation**, with a strong focus on **LLMs and AI-driven solutions**.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## 🛠 **Technical Skills**  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+✔ **Programming:** Python, SQL  
+✔ **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+✔ **LLM Training & Fine-Tuning:** LoRA, QLoRA, Retrieval-Augmented Generation (RAG)  
+✔ **NLP & Computer Vision:** Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition, ViT  
+✔ **MLOps & Deployment:** CI/CD (GitHub Actions), Docker, FastAPI  
+✔ **Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+✔ **Big Data & Cloud:** AWS, GCP, Snowflake  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## 🎓 **Education**  
 
-![Bike Study](/assets/img/bike_study.jpeg)
+📌 **M.S. Data Science** – Saint Peter’s University (*Expected February 2025*)  
+📌 **B.Tech** – Jawaharlal Nehru Technological University (*April 2022*)  
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+---
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## 💡 **Work Experience**  
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### **Teaching Assistant | Saint Peter’s University**  
+📅 *December 2024 – Present*  
+- Mentoring students in **Python, data analysis, and machine learning**.  
+- Assisting in **course development and AI application projects**.  
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### **Graduate Research Assistant | NLP & AI Research**  
+📅 *August 2024 – December 2024*  
+- Developed a **BERT-based COVID-19 tweet classifier**, achieving **94% accuracy**.  
+- Fine-tuned **transformer models** for **real-time text classification applications**.  
+
+### **Intelligent Process Automation Engineer | Cyient**  
+📅 *October 2022 – July 2024*  
+- Implemented **NLP-driven automation** for customer support ticket classification (**BERT, TF-IDF**), reducing manual effort by **40%**.  
+- Designed **interactive Tableau dashboards** to track **Google Ads performance**, improving ad efficiency by **15%**.  
+
+### **Predictive Analytics Consultant | Wipro**  
+📅 *May 2021 – August 2022*  
+- Built **predictive models (Random Forest, Logistic Regression)** for **student dropout risk analysis**, achieving **85% accuracy**.  
+- Automated **data tracking pipelines** using **Pandas & Matplotlib**, reducing **manual reporting by 50%**.  
+
+### **Machine Learning Intern | Wipro**  
+📅 *January 2021 – May 2021*  
+- Developed an **AI-powered chatbot** using **T5 transformers**, reducing **response time by 60%**.  
+- Conducted **sentiment analysis** on student feedback with **BERT embeddings** for better **student engagement insights**.  
+
+---
+
+## 🚀 **Notable Projects**  
+
+### 📌 [Anime Character Classification (ViT)](https://github.com/charitha-iddum/Anime-Vision-Classifier)  
+✔ Implemented a **Vision Transformer (ViT)** for **anime character classification**, improving test accuracy to **85%**.  
+✔ Fine-tuned **ViT_B_16_Weights** on a **Dragon Ball Z dataset**.  
+
+### 📌 [COVID Tweet Classification (BERT)](https://github.com/charitha-iddum/COVID-Tweet-BERT)  
+✔ Designed a **BERT-based NLP model** for **COVID-19 tweet classification**, achieving **94.18% accuracy**.  
+✔ Conducted **extensive testing** with **multiclass classification and AUC analysis**.  
+
+### 📌 [Machine Learning Query Resolver Chatbot](https://github.com/charitha-iddum/ML-Query-Resolver-Bot)  
+✔ Built an **AI-driven chatbot** using **T5 models** to handle ML-related queries with **high response accuracy**.  
+✔ Led research to evaluate **deep learning vs. traditional NLP models** for chatbot performance.  
+
+---
+
+## 📚 **Publications & Talks**  
+
+🔹 **COVID Tweet Classification Using BERT** – NLP Research (2024)  
+🔹 **Dimensionality Reduction & ML in Scientific Discovery** – Guest Lecture (2021)  
+🔹 **Optimization & Neural Networks** – GSP Seminar (2019)  
+
+---
+
+## 📫 **Connect With Me**  
+
+💼 **LinkedIn:** [linkedin.com/in/charitha-sri-iddum](https://linkedin.com/in/charitha-sri-iddum)  
+🌟 **GitHub:** [github.com/charitha-iddum](https://github.com/charitha-iddum)  
+📧 **Email:** satyaiddum@gmail.com  
+
+🚀 Passionate about **AI, LLMs, and deploying scalable ML solutions!**  
+
+---
+
+This **README.md** is **structured, professional, and optimized** for your **GitHub profile** while aligning with your **resume content**. Let me know if you need any refinements! 🚀😊
