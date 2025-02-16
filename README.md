@@ -11,29 +11,14 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 ---
 
 ## 🛠 **Technical Skills**  
-**Programming & Development:**
-        Python
-        CI/CD Pipelines - GitHub Actions
-        Version Control (Git, GitHub)
-**Machine Learning & Deep Learning:**
-        PyTorch, Tensorflow, Hugging Face, Scikit-learn
-        Transformer Models (BERT, GPT, MBart-50, ViT, T5, LLaMA)
-        Large Language Models (LLMs), Retrieval-Augmented Generation
-        Transfer Learning, Hyperparameter Tuning, Model Evaluation & Optimization
-        Self-Supervised Learning
-        Neural Network Optimization (Activation Functions, Backpropagation Enhancements)
-**LLM Training & Fine-Tuning:**
-        Pretraining and fine-tuning on domain-specific datasets
-        Parameter Efficient Tuning (LoRA, QLoRA)
-**Computer Vision & NLP:**
-        EfficientNet, Vision Transformers
-        Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition
-        Multi-Modal AI (Vision-Language Models)
-**Data Processing & Visualization:**
-        Pandas, NumPy, Matplotlib, Seaborn
-        Feature Engineering, Data Augmentation
-**Evaluation & Benchmarking:**
-        Custom AI Evaluation Frameworks, Model Explainability
+
+**Programming:** Python, SQL  
+**Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+**LLM Training & Fine-Tuning:** LoRA, QLoRA, Retrieval-Augmented Generation (RAG)  
+**NLP & Computer Vision:** Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition, ViT  
+**MLOps & Deployment:** CI/CD (GitHub Actions), Docker, FastAPI  
+**Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+**Big Data & Cloud:** AWS, GCP, Snowflake  
 
 
 ---
