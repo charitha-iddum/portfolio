@@ -1,6 +1,6 @@
-# 🚀 Charitha Sri Iddum | Data Scientist | AI & NLP Engineer | ML Consultant  
+# Charitha Sri Iddum 
 
-📍 **Machine Learning | Deep Learning | NLP | MLOps | AI Automation**  
+**AI/ML Enthusiast**  
 
 ---
 
