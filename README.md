@@ -4,21 +4,37 @@
 
 ---
 
-Hello! I am a Graduate Student in Data Science from Saint Peter’s University. While my coursework primarily focuses on Data Science, my true passion lies in Natural Language Processing (NLP) and its applications in Large Language Models (LLMs). My professional journey began as a Transaction Analyst at Amazon, followed by roles at Google and other organizations. However, I struggled to find work that truly sparked my curiosity. It was during the COVID-19 lockdown that I discovered my interest in Data Science. Through self-study, I delved deeper into the field, which eventually led me to pursue a Master’s in Data Science.
+Hello! I am a Graduate Student in Data Science from Saint Peter’s University. While my coursework primarily focuses on Data Science, my true passion lies in Natural Language Processing (NLP) and its applications in Large Language Models (LLMs). My professional journey began as a ML Developer at Wipro, followed by roles at Cyient and Saint Peter's. However, I struggled to find work that truly sparked my curiosity. It was during the COVID-19 lockdown that I discovered my interest in Data Science. Through self-study, I delved deeper into the field, which eventually led me to pursue a Master’s in Data Science.
 
 During my graduate studies, my fascination with Transformers and Advanced NLP grew, especially after exploring Mohit Iyyer’s Advanced NLP sessions. His work inspired me to dive deeper into LLMs, their architectures, and real-world applications. Currently, I am actively researching Natural Language Processing, focusing on the inner workings of Neural Language Models and their advancements. My goal is to deepen my expertise and contribute to the evolving field of NLP and AI.
 
 ---
 
 ## 🛠 **Technical Skills**  
+**Programming & Development:**
+        Python
+        CI/CD Pipelines - GitHub Actions
+        Version Control (Git, GitHub)
+**Machine Learning & Deep Learning:**
+        PyTorch, Tensorflow, Hugging Face, Scikit-learn
+        Transformer Models (BERT, GPT, MBart-50, ViT, T5, LLaMA)
+        Large Language Models (LLMs), Retrieval-Augmented Generation
+        Transfer Learning, Hyperparameter Tuning, Model Evaluation & Optimization
+        Self-Supervised Learning
+        Neural Network Optimization (Activation Functions, Backpropagation Enhancements)
+**LLM Training & Fine-Tuning:**
+        Pretraining and fine-tuning on domain-specific datasets
+        Parameter Efficient Tuning (LoRA, QLoRA)
+**Computer Vision & NLP:**
+        EfficientNet, Vision Transformers
+        Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition
+        Multi-Modal AI (Vision-Language Models)
+**Data Processing & Visualization:**
+        Pandas, NumPy, Matplotlib, Seaborn
+        Feature Engineering, Data Augmentation
+**Evaluation & Benchmarking:**
+        Custom AI Evaluation Frameworks, Model Explainability
 
-✔ **Programming:** Python, SQL  
-✔ **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-✔ **LLM Training & Fine-Tuning:** LoRA, QLoRA, Retrieval-Augmented Generation (RAG)  
-✔ **NLP & Computer Vision:** Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition, ViT  
-✔ **MLOps & Deployment:** CI/CD (GitHub Actions), Docker, FastAPI  
-✔ **Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-✔ **Big Data & Cloud:** AWS, GCP, Snowflake  
 
 ---
 
