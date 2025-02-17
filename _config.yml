@@ -3,3 +3,4 @@ minimal:
 logo: /images/Profile.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
+custom_css: styles.css 
