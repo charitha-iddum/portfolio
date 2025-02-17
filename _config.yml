@@ -1,5 +1,5 @@
-#title: Charitha Sri Iddum
+minimal:
+  show_title: false
 logo: /images/Profile.jpeg
-#description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
