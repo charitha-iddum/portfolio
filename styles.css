@@ -1,6 +1,6 @@
 img {
-    width: 200px;  /* Change width */
-    height: 200px; /* Change height */
+    width: 50px;  /* Change width */
+    height: 50px; /* Change height */
     object-fit: cover; /* Ensures the image is scaled properly */
     border-radius: 10px; /* Optional: Rounds corners */
 }
