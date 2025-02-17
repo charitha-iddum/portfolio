@@ -1,6 +1,6 @@
-img {
-    width: 50px;  /* Change width */
-    height: 50px; /* Change height */
-    object-fit: cover; /* Ensures the image is scaled properly */
+.site-logo images {
+    width: 150px; /* Adjust width as needed */
+    height: 150px; /* Adjust height */
+    object-fit: cover; /* Ensures proper scaling */
     border-radius: 10px; /* Optional: Rounds corners */
 }
