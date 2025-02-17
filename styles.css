@@ -1,6 +1,0 @@
-.site-logo images {
-    width: 100px; /* Adjust width as needed */
-    height: 100px; /* Adjust height */
-    object-fit: cover; /* Ensures proper scaling */
-    border-radius: 10px; /* Optional: Rounds corners */
-}
