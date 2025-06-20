@@ -4,7 +4,7 @@
 
 ---
 
-Hello! I am a Graduate Student in Data Science from Saint Peter’s University. While my coursework primarily focuses on Data Science, my true passion lies in Natural Language Processing (NLP) and its applications in Large Language Models (LLMs). My professional journey began as a ML Developer at Wipro, followed by roles at Cyient and Saint Peter's. However, I struggled to find work that truly sparked my curiosity. It was during the COVID-19 lockdown that I discovered my interest in Data Science. Through self-study, I delved deeper into the field, which eventually led me to pursue a Master’s in Data Science.
+Hello! I am a Graduate Student in Data Science from Saint Peter’s University. While my coursework primarily focuses on Data Science, my true passion lies in Natural Language Processing (NLP) and its applications in Large Language Models (LLMs). My professional journey began as a ML Developer at TechnoVision Digitech Pvt Ltd (India), followed by roles at Saint Peter's and Infosoft Solutions (US). However, I struggled to find work that truly sparked my curiosity. It was during the COVID-19 lockdown that I discovered my interest in Data Science. Through self-study, I delved deeper into the field, which eventually led me to pursue a Master’s in Data Science.
 
 During my graduate studies, my fascination with Transformers and Advanced NLP grew, especially after exploring Mohit Iyyer’s Advanced NLP sessions. His work inspired me to dive deeper into LLMs, their architectures, and real-world applications. Currently, I am actively researching Natural Language Processing, focusing on the inner workings of Neural Language Models and their advancements. My goal is to deepen my expertise and contribute to the evolving field of NLP and AI.
 
@@ -12,13 +12,14 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ## 🛠 **Technical Skills**  
 
-**Programming:** Python, SQL  
-**Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-**LLM Training & Fine-Tuning:** LoRA, QLoRA, Retrieval-Augmented Generation (RAG)  
-**NLP & Computer Vision:** Tokenization, Sentiment Analysis, Text Classification, Named Entity Recognition, ViT  
-**MLOps & Deployment:** CI/CD (GitHub Actions), Docker, FastAPI  
-**Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-**Big Data & Cloud:** AWS, GCP, Snowflake  
+**Programming & Scripting**: Python, SQL, Java, C++, Swift, Objective-C
+**Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transfer Learning, Self-Supervised Learning
+**LLM Development & Generative AI**: Gemini API, LangChain, LoRA, QLoRA, Prompt Engineering, Instruction Tuning, Retrieval-Augmented Generation (RAG), Guided Generation
+**Natural Language Processing & Computer Vision**: Tokenization, Sentiment Analysis, Named Entity Recognition (NER), Text Classification, Vision Transformers (ViT), BLIP
+**MLOps & Deployment**: CI/CD (GitHub Actions), Docker, Kubernetes, FastAPI, Streamlit, TensorRT, Edge Deployment
+**Data Engineering & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Data Augmentation
+**Cloud & Big Data**: AWS, GCP, Snowflake, Hugging Face Spaces, Streamlit Cloud
+**Model Evaluation & Optimization**: ROC-AUC, F1-score, Hyperparameter Tuning, Model Quantization (PTQ, QAT), Explainability, Error Analysis 
 
 
 ---
