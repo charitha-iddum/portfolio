@@ -10,16 +10,17 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ---
 
-## 🛠 **Technical Skills**  
+## 🛠️ **Technical Skills**
 
-**Programming & Scripting**: Python, SQL, Java, C++, Swift, Objective-C
-**Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transfer Learning, Self-Supervised Learning
-**LLM Development & Generative AI**: Gemini API, LangChain, LoRA, QLoRA, Prompt Engineering, Instruction Tuning, Retrieval-Augmented Generation (RAG), Guided Generation
-**Natural Language Processing & Computer Vision**: Tokenization, Sentiment Analysis, Named Entity Recognition (NER), Text Classification, Vision Transformers (ViT), BLIP
-**MLOps & Deployment**: CI/CD (GitHub Actions), Docker, Kubernetes, FastAPI, Streamlit, TensorRT, Edge Deployment
-**Data Engineering & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Data Augmentation
-**Cloud & Big Data**: AWS, GCP, Snowflake, Hugging Face Spaces, Streamlit Cloud
-**Model Evaluation & Optimization**: ROC-AUC, F1-score, Hyperparameter Tuning, Model Quantization (PTQ, QAT), Explainability, Error Analysis 
+- **Programming & Scripting:** Python, SQL, Java, C++, Swift, Objective-C  
+- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transfer Learning, Self-Supervised Learning  
+- **LLM Development & Generative AI:** Gemini API, LangChain, LoRA, QLoRA, Prompt Engineering, Instruction Tuning, Retrieval-Augmented Generation (RAG), Guided Generation  
+- **Natural Language Processing & Computer Vision:** Tokenization, Sentiment Analysis, Named Entity Recognition (NER), Text Classification, Vision Transformers (ViT), BLIP  
+- **MLOps & Deployment:** CI/CD (GitHub Actions), Docker, Kubernetes, FastAPI, Streamlit, TensorRT, Edge Deployment  
+- **Data Engineering & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Data Augmentation  
+- **Cloud & Big Data:** AWS, GCP, Snowflake, Hugging Face Spaces, Streamlit Cloud  
+- **Model Evaluation & Optimization:** ROC-AUC, F1-score, Hyperparameter Tuning, Model Quantization (PTQ, QAT), Explainability, Error Analysis
+
 
 
 ---
