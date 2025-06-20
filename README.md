@@ -32,32 +32,31 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ---
 
-## 💡 **Work Experience**  
+## 💼 **Work Experience**
 
-### **Teaching Assistant | Saint Peter’s University**  
-*December 2024 – Present*  
-- Mentoring students in **Python, data analysis, and machine learning**.  
-- Assisting in **course development and AI application projects**.  
+**Junior Machine Learning Engineer**  
+*Infosoft Solutions – New Jersey, USA*  
+**July 2024 – December 2024**  
+- Developed a hybrid healthcare platform using Google’s Gemini API to predict patient readmission risk and provide generative AI–based support.  
+- Applied feature selection, PCA, and SMOTE to improve model fairness and handle class imbalance.  
+- Trained and evaluated ML models (Logistic Regression, Random Forest, XGBoost) using precision, recall, F1-score, and ROC-AUC.  
+- Built an interactive full-stack app with Streamlit and React.js, featuring chatbot integration and backend automation using Cron Jobs.
 
-### **Graduate Research Assistant | NLP & AI Research**  
-*August 2024 – December 2024*  
-- Developed a **BERT-based COVID-19 tweet classifier**, achieving **94% accuracy**.  
-- Fine-tuned **transformer models** for **real-time text classification applications**.  
+**Teaching Assistant**  
+*Saint Peter’s University – Jersey City, NJ*  
+**December 2023 – May 2024**  
+- Mentored 50+ students in Python, Data Science, and Machine Learning using Jupyter Notebooks and Pandas.  
+- Designed visualization assignments with Seaborn and Matplotlib, increasing engagement by 30%.  
+- Supported curriculum design and contributed to high-quality instructional content.
 
-### **Intelligent Process Automation Engineer | Cyient**  
-*October 2022 – July 2024*  
-- Implemented **NLP-driven automation** for customer support ticket classification (**BERT, TF-IDF**), reducing manual effort by **40%**.  
-- Designed **interactive Tableau dashboards** to track **Google Ads performance**, improving ad efficiency by **15%**.  
+**Python Developer**  
+*TechnoVision DigiTech Pvt Ltd – Hyderabad, India*  
+**May 2020 – July 2023**  
+- Built end-to-end machine learning systems including training pipelines, feature engineering, and deployment with Flask and FastAPI.  
+- Automated dataset collection using web scraping and large-scale data preprocessing with Pandas and NumPy.  
+- Created a BERT-based NLP pipeline for analyzing 10K+ monthly support tickets, reducing resolution time by 25%.  
+- Deployed scalable ML services using Docker and AWS, improving reliability and maintainability.
 
-### **Predictive Analytics Consultant | Wipro**  
-*May 2021 – August 2022*  
-- Built **predictive models (Random Forest, Logistic Regression)** for **student dropout risk analysis**, achieving **85% accuracy**.  
-- Automated **data tracking pipelines** using **Pandas & Matplotlib**, reducing **manual reporting by 50%**.  
-
-### **Machine Learning Intern | Wipro**  
-*January 2021 – May 2021*  
-- Developed an **AI-powered chatbot** using **T5 transformers**, reducing **response time by 60%**.  
-- Conducted **sentiment analysis** on student feedback with **BERT embeddings** for better **student engagement insights**.  
 
 ---
 
