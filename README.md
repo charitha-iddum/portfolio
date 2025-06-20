@@ -62,17 +62,19 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ## 🚀 **Notable Projects**  
 
-###  [Anime Character Classification (ViT)](https://github.com/charitha-iddum/Anime-Vision-Classifier)  
-Implemented a **Vision Transformer (ViT)** for **anime character classification**, improving test accuracy to **85%**.  
-Fine-tuned **ViT_B_16_Weights** on a **Dragon Ball Z dataset**.  
+### [Generative AI Assistant for Diabetes Support](https://github.com/charitha-iddum/Diabetes-Healthcare-Programme)  
+Built a full-stack healthcare web app for diabetes management using **Google’s Gemini API**, offering real-time diagnosis and personalized treatment suggestions.  
+Integrated **LLM-based chatbot** ("Capsule") for natural language interaction; deployed via **Streamlit** and **React.js** with **Cron Jobs** for backend automation.
 
-###  [COVID Tweet Classification (BERT)](https://github.com/charitha-iddum/COVID-Tweet-BERT)  
-Designed a **BERT-based NLP model** for **COVID-19 tweet classification**, achieving **94.18% accuracy**.  
-Conducted **extensive testing** with **multiclass classification and AUC analysis**.  
+### [AI-Powered Image-to-Voice Narrator](https://github.com/charitha-iddum/AI-Powered-Image-to-Voice-Narrator)  
+Developed a **multimodal GenAI system** that converts uploaded images into narrated short stories using **BLIP**, **GPT-3.5**, and **ESPnet**.  
+Orchestrated the pipeline with **LangChain**, deployed cross-platform on **Streamlit Cloud** and **Hugging Face Spaces**.
 
-###  [Machine Learning Query Resolver Chatbot](https://github.com/charitha-iddum/ML-Query-Resolver-Bot)  
-Built an **AI-driven chatbot** using **T5 models** to handle ML-related queries with **high response accuracy**.  
-Led research to evaluate **deep learning vs. traditional NLP models** for chatbot performance.  
+### [Image Classification using CNN in PyTorch](https://github.com/charitha-iddum/Image-Classification-using-CNN-in-PyTorch)  
+Designed and trained a **custom CNN** from scratch to classify images into multiple categories.  
+Implemented forward/backward propagation with **CrossEntropyLoss** and optimized using the **Adam** optimizer.
+
+ 
 
 ---
 
