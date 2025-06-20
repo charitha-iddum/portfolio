@@ -27,7 +27,7 @@ During my graduate studies, my fascination with Transformers and Advanced NLP gr
 
 ## 🎓 **Education**  
 
-**M.S. Data Science** – Saint Peter’s University (*Expected February 2025*)  
+**M.S. Data Science** – Saint Peter’s University (*May 2025*)  
 **B.Tech** – Jawaharlal Nehru Technological University (*April 2022*)  
 
 ---
